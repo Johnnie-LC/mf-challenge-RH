@@ -13,6 +13,7 @@ Note: The LibreTranslate API takes some time to translate text
 * Node.js v20.5.0
 * NPM 9+
 * Python 3.8+
+* pip
 
 ## installation
 
