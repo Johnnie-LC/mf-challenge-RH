@@ -6,6 +6,8 @@ This web application has a home page with two buttons. The "Rick and Morty" butt
 
 In addition to a button that translates the information from Spanish to English and uses the free [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) API that runs locally.
 
+Note: The LibreTranslate API takes some time to translate text
+
 ## Requirements
 
 * Node.js v20.5.0
@@ -57,20 +59,20 @@ run in http://localhost:5000
 repo app1
 ```js
   cd app1
-  npm run dev
+  npm run start
 ```
 run in http://localhost:3001
 
 repo app2
 ```js
   cd app2
-  npm run dev
+  npm run start
 ```
 run in http://localhost:3002) 
 
 repo shell
 ```js
   cd shell
-  npm run dev
+  npm run start
 ```
 Then open a web browser to http://localhost:3000
