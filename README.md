@@ -6,7 +6,14 @@ This web application has a home page with two buttons. The "Rick and Morty" butt
 
 In addition to a button that translates the information from Spanish to English and uses the free [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) API that runs locally.
 
-Note: The LibreTranslate API takes some time to translate text
+### Note: 
+The LibreTranslate API takes some time to translate text
+
+### Note: 
+there are three repositories:: 
+   * app1: get the Rick and Morty API
+   * app2: get the Harry Potter API
+   * Shell: get app1 and app2 in addition to having the routing
 
 ## Requirements
 
