@@ -1,0 +1,26 @@
+:root {
+  /* Fondos oscuros */
+  --background-primary: #121212;
+  --background-secondary: #1e1e1e;
+
+  /* Texto claro */
+  --text-primary: #ffffff;
+  --text-secondary: #cccccc;
+
+  /* Colores de acento */
+  --accent-primary: #1976d2;
+  --accent-secondary: #9c27b0;
+  --accent-tertiary: #388e3c;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+  font-size: 3rem;
+  margin: auto;
+  max-width: 800px;
+  margin-top: 20px;
+}
