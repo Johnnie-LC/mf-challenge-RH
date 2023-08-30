@@ -1,4 +1,10 @@
-# mf-challenge-RH
+# mf-app-characters
+
+Web application to view characters from series or movies
+
+This web application has a home page with two buttons. The "Rick and Morty" button loads a list of characters from the Rick and Morty series. The "Harry Potter" button loads a list of characters from the Harry Potter film series.
+
+In addition to a button that translates the information from Spanish to English and uses the free [LibreTranslate](https://github.com/LibreTranslate/LibreTranslate) API that runs locally.
 
 ## Requirements
 
