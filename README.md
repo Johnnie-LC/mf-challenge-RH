@@ -24,7 +24,11 @@ there are three repositories::
 
 ## installation
 
-1. Clone the repository: https://github.com/Johnnie-LC/wordleJ.git
+1. Clone the repository:
+```js
+   git clone https://github.com/Johnnie-LC/mf-challenge-RH 
+```
+   
 
 ## TO LOCAL RUN
    Use node v20.5.0
